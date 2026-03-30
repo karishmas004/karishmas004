@@ -119,11 +119,6 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karishmas004&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=fbbf24&cache_seconds=1800"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karishmas004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&cache_seconds=1800&langs_count=8"/>
-
-<br/>
-
 <img src="https://streak-stats.demolab.com/?user=karishmas004&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=fbbf24&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=6b7280" />
 
 </div>
