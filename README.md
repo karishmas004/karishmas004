@@ -20,7 +20,7 @@
 
 👋 Hi, I'm **Karishma S** — a Data Science & Analytics enthusiast based in Bengaluru, India.
 
-🎓 Currently pursuing **B.E., with a strong foundation in statistics, machine learning, and data systems.
+🎓 Currently pursuing **B.E.**, with a strong foundation in statistics, machine learning, and data systems.
 
 🔍 I'm passionate about uncovering patterns in data and turning them into decisions that matter. From building interactive **Power BI dashboards** to deploying **ML-powered web apps**, I love the full journey from raw data to real impact.
 
