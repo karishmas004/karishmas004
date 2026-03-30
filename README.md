@@ -129,10 +129,10 @@
 
 | 🏅 Certification | 🏢 Issuer |
 |---|---|
-| Introduction to Generative AI Studio | Google Cloud Skills Boost — Code: 9770862 |
+| Introduction to Generative AI Studio | Google Cloud Skills Boost  |
 | Generative AI Mastermind | Outskill |
-| Data Analytics Internship | NoviTech R&D — DAINE4064 |
-| Power BI Internship | NoviTech R&D — PBIINE1829 |
+| Data Analytics Internship | NoviTech R&D  |
+| Power BI Internship | NoviTech R&D |
 
 ---
 
