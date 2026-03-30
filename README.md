@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HEADER BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141e30,50:243b55,100:00c6ff,100:24243e&height=200&section=header&text=Karishma%20S&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Analytics%20%7C%20Insights%20that%20Matter&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:4c1d95,100:7c3aed,100:00c6ff,100:24243e&height=200&section=header&text=Karishma%20S&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Analytics%20%7C%20Insights%20that%20Matter&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+Dashboards+that+Tell+Stories+%F0%9F%93%96;Data+Science+%26+Analytics+Enthusiast+%F0%9F%92%AB)](https://git.io/typing-svg)
