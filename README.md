@@ -4,14 +4,12 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Karishma%20S&fontSize=70&fontColor=ffffff&fontAlignY=38&desc=Data%20Science%20%7C%20Analytics%20%7C%20Insights%20that%20Matter&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+Dashboards+that+Tell+Stories+%F0%9F%93%96;Information+Science+%40+VTU+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Turning+Raw+Data+into+Real+Decisions+%F0%9F%93%8A;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau;Building+Dashboards+that+Tell+Stories+%F0%9F%93%96;Data+Science+%26+Analytics+Enthusiast+%F0%9F%92%AB)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- ABOUT ME PILL BADGES -->
 ![Role](https://img.shields.io/badge/Role-Data%20Analyst%20%26%20Data%20Scientist-7c3aed?style=for-the-badge&labelColor=1e1b4b)
-![University](https://img.shields.io/badge/VTU-Information%20Science%20Engg-6d28d9?style=for-the-badge&labelColor=1e1b4b)
-![CGPA](https://img.shields.io/badge/CGPA-7.51%20%2F%2010.0-8b5cf6?style=for-the-badge&labelColor=1e1b4b)
 ![Location](https://img.shields.io/badge/📍-Bengaluru%2C%20India-4c1d95?style=for-the-badge&labelColor=1e1b4b)
 
 </div>
@@ -20,20 +18,19 @@
 
 ## 🌌 About Me
 
-```python
-karishma = {
-    "name"        : "Karishma S",
-    "role"        : "Data Science & Analytics Enthusiast",
-    "education"   : "B.E. Information Science @ VTU (2023–2027)",
-    "focus"       : ["Data Analytics", "Business Intelligence", "ML Applications"],
-    "currently"   : "Building data-driven solutions & dashboards",
-    "superpower"  : "Transforming messy datasets into actionable insights ✨",
-}
-```
+👋 Hi, I'm **Karishma S** — a Data Science & Analytics enthusiast based in Bengaluru, India.
 
-> *"Data is not just numbers — it's a story waiting to be told."*
+🎓 Currently pursuing **B.E. in Information Science & Engineering** (2023–2027), with a strong foundation in statistics, machine learning, and data systems.
 
-Results-driven IS undergraduate with hands-on internship experience in **Data Analytics** and **Power BI**, passionate about using data to drive smarter decisions. I build dashboards, train classifiers, and turn complex data into clarity.
+🔍 I'm passionate about uncovering patterns in data and turning them into decisions that matter. From building interactive **Power BI dashboards** to deploying **ML-powered web apps**, I love the full journey from raw data to real impact.
+
+💡 **What I bring to the table:**
+- 📊 End-to-end data analytics — from messy CSVs to clean, compelling insights
+- 🤖 Machine learning model building, evaluation & deployment
+- 📈 Business intelligence dashboards with Power BI & Tableau
+- 🧹 Strong data wrangling & EDA skills using Python & SQL
+
+> *"Every dataset holds a pattern. Every pattern tells a truth."*
 
 ---
 
@@ -122,12 +119,12 @@ Results-driven IS undergraduate with hands-on internship experience in **Data An
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karishmas004&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=fbbf24"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karishmas004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karishmas004&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&icon_color=fbbf24&cache_seconds=1800"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karishmas004&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=e2e8f0&cache_seconds=1800&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=karishmas004&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=fbbf24&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=6b7280" />
+<img src="https://streak-stats.demolab.com/?user=karishmas004&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=fbbf24&currStreakLabel=e2e8f0&sideLabels=e2e8f0&dates=6b7280" />
 
 </div>
 
@@ -155,7 +152,7 @@ Results-driven IS undergraduate with hands-on internship experience in **Data An
 <!-- FOOTER WAVE -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn"/>
 
-**"Every dataset holds a pattern. Every pattern tells a truth."**
+**✨ Turning data into decisions, one insight at a time ✨**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=karishmas004&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
 
